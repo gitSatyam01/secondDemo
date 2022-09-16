@@ -7,7 +7,7 @@ public class AgainSet {
 		set.add(22);
 		set.add(11);
 		set.add(44);
-		System.out.println(set);
+		
 		for(Integer i:set) {
 			System.out.println(i); 
 		}
